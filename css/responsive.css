@@ -1,0 +1,980 @@
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1020px) {
+  
+  /* CSS */
+  .coverpage{
+    height: 48vh;
+  }
+  .coverpage .nav-bar .logo img{
+        width: 70%;
+  }
+  .coverpage .nav-bar .menu .menu-top img{
+        width: 6%;
+  }
+   .coverpage .nav-bar .menu .menu-top span{
+        font-size: 8px;
+  }
+  .menu-bottom ul li a{
+    font-size: 12px;
+  }
+  .coverpage .nav-bar .menu .menu-top{
+    padding-bottom: 2px;
+  }
+  .Add{
+    height: 27vh;
+  }
+  .Add p{
+    font-size: 12px;
+  }
+  .Add h1{
+    font-size: 56px;
+    margin-bottom: 0px !important;
+  }
+  .Add h4{
+    font-size: 32px;
+  }
+  .body-1{
+    padding: 0px 0px;
+  }
+  .body-1 h3{
+    font-size: 22px;
+    margin-bottom: 0px !important;
+  }
+  .body-1 h1{
+    font-size: 26px;
+    margin-bottom: 0px !important;
+
+  }
+ .heading button{
+  width: 28%;
+ }
+.body2-burger2 img{
+      margin-top: 48px;
+}
+.body2-burger1 {
+  margin-top: 33px;
+}
+.body-2 button{
+  width: 75%;
+}
+.body2-burger3 {
+    margin-top: 39px;
+}
+.desc h4{
+  font-size: 14px;
+}
+.desc h2{
+  font-size: 28px;
+}
+.desc p{
+  font-size: 17.83px;
+    margin-top: 24px;
+}
+.owl-theme .owl-dots .owl-dot{
+  margin: 17px 5px;
+}
+.body-3 .col-md-6{
+  display: flex;
+  align-items: center;
+}
+.body-3{
+  margin-top: 0px;
+  padding-bottom: 0px;
+}
+.body-4{
+  height: 46vh;
+  padding-top: 25px;
+}
+.table form input {
+  width: 30%;
+}
+.footer{
+  height: 32vh;
+  padding:45px 0px;
+}
+.footer-img-desc {
+  margin-top: 0px;
+}
+.footer-img-desc p{
+  margin-top: 8px;
+  font-size: 9px;
+}
+.footer-img-desc h5{
+  margin-top: 45px;
+}
+.footer-icon-desc{
+  margin-left: 136px;
+  margin-top: 54px;
+}
+.footer-icon-desc span{
+  font-size: 10px;
+}
+.footer-img-desc h5 {
+    margin-top: 30px;
+}
+.footer-icon {
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 0px;
+
+}
+.footer-icon-desc {
+    margin-left: 57px;
+    margin-top: 36px;
+}
+}
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1020px) and (orientation: landscape) {
+  
+  /* CSS */
+   .coverpage{
+    height: 80vh;
+  }
+  .coverpage .nav-bar .logo img{
+        width: 70%;
+  }
+  .coverpage .nav-bar .menu .menu-top img{
+        width: 6%;
+  }
+   .coverpage .nav-bar .menu .menu-top span{
+        font-size: 8px;
+  }
+  .menu-bottom ul li a{
+    font-size: 12px;
+  }
+  .coverpage .nav-bar .menu .menu-top{
+    padding-bottom: 2px;
+  }
+  .Add{
+    height: 33vh;
+  }
+  .Add p{
+    font-size: 12px;
+  }
+  .Add h1{
+    font-size: 56px;
+    margin-bottom: 0px !important;
+  }
+  .Add h4{
+    font-size: 32px;
+  }
+  .body-1{
+    padding: 0px 0px;
+  }
+  .body-1 h3{
+    font-size: 22px;
+    margin-bottom: 0px !important;
+  }
+  .body-1 h1{
+    font-size: 26px;
+    margin-bottom: 0px !important;
+
+  }
+ .heading button{
+  width: 28%;
+ }
+.body2-burger2 img{
+      margin-top: 30px;
+}
+.body-2 button{
+  width: 75%;
+}
+.desc h4{
+  font-size: 14px;
+}
+.desc h2{
+  font-size: 28px;
+}
+.desc p{
+  font-size: 17.83px;
+    margin-top: 24px;
+}
+.owl-theme .owl-dots .owl-dot{
+  margin: 17px 5px;
+}
+.body-3 .col-md-6{
+  display: flex;
+  align-items: center;
+}
+.body-3{
+  margin-top: 0px;
+  padding-bottom: 45px;
+}
+.owl-theme .owl-dots{
+  top: 280px;
+}
+.body-4{
+  height: 74vh;
+  padding-top: 25px;
+}
+.table form input {
+  width: 30%;
+}
+.footer{
+  height: 54vh;
+  padding:45px 0px;
+}
+.footer-img-desc {
+  margin-top: 77px;
+}
+.footer-img-desc p{
+  margin-top: 8px;
+  font-size: 9px;
+}
+.footer-img-desc h5{
+  margin-top: 45px;
+}
+.footer-icon-desc {
+    margin-left: 140px;
+    margin-top: 100px;
+}
+.footer-icon-desc span{
+  font-size: 10px;
+}
+.footer-img-desc h5 {
+    margin-top: 120px;
+}
+.footer-icon {
+    width: 100%;
+     margin-top: 113px;
+    margin-left: 20px;
+}
+}
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1021px) and (max-width: 1280px){
+  
+  /* CSS */
+  .coverpage{
+    height: 52vh;
+  }
+  .coverpage .nav-bar .logo img{
+        width: 70%;
+  }
+  .coverpage .nav-bar .menu .menu-top img{
+        width: 6%;
+  }
+   .coverpage .nav-bar .menu .menu-top span{
+        font-size: 8px;
+  }
+  .menu-bottom ul li a{
+    font-size: 12px;
+  }
+  .coverpage .nav-bar .menu .menu-top{
+    padding-bottom: 2px;
+  }
+  .Add{
+    height: 33vh;
+  }
+  .Add p{
+    font-size: 12px;
+  }
+  .Add h1{
+    font-size: 56px;
+    margin-bottom: 0px !important;
+  }
+  .Add h4{
+    font-size: 32px;
+  }
+  .body-1{
+    padding: 0px 0px;
+  }
+  .body-1 h3{
+    font-size: 22px;
+    margin-bottom: 0px !important;
+  }
+  .body-1 h1{
+    font-size: 26px;
+    margin-bottom: 0px !important;
+
+  }
+  .body-2{
+    padding: 60px 0px
+  }
+ .heading button{
+  width: 28%;
+ }
+.body2-burger2 img{
+      margin-top: 19px;
+}
+.body2-burger2 {
+      margin-top: 0px;
+}
+.body-2 button{
+  width: 75%;
+}
+.desc h4{
+  font-size: 14px;
+}
+.desc h2{
+  font-size: 28px;
+}
+.desc p{
+  font-size: 17.83px;
+    margin-top: 4px;
+    width: 60%;
+}
+.owl-theme .owl-dots .owl-dot{
+  margin: 17px 5px;
+}
+.body-3 .col-md-6{
+  display: flex;
+  align-items: center;
+}
+.body-3{
+  margin-top: 0px;
+  padding: 70px 0px
+}
+.body-4{
+  height: 38vh;
+  padding-top: 25px;
+}
+.table form input {
+  width: 30%;
+}
+
+.footer-img-desc {
+  margin-top: 0px;
+}
+.footer-img-desc p{
+  margin-top: 8px;
+  font-size: 9px;
+}
+.footer-img-desc h5{
+  margin-top: 45px;
+}
+.footer-icon-desc{
+  margin-left: 136px;
+  margin-top: 54px;
+}
+.footer-icon-desc span{
+  font-size: 10px;
+}
+.footer-img-desc h5 {
+    margin-top: 30px;
+}
+.footer-icon {
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 0px;
+
+}
+.footer-icon-desc {
+    margin-left: 57px;
+    margin-top: 36px;
+}
+.footer{
+  height: 20vh;
+}
+}
+
+
+/*1024 landscape*/
+@media (min-width: 1021px) and (max-width: 1280px) and (orientation: landscape){
+ 
+  .coverpage{
+    height: 80vh;
+  }
+  .coverpage .nav-bar .logo img{
+        width: 70%;
+  }
+  .coverpage .nav-bar .menu .menu-top img{
+        width: 6%;
+  }
+   .coverpage .nav-bar .menu .menu-top span{
+        font-size: 8px;
+  }
+  .menu-bottom ul li a{
+    font-size: 12px;
+  }
+  .coverpage .nav-bar .menu .menu-top{
+    padding-bottom: 2px;
+  }
+  .Add{
+    height: 42vh;
+  }
+  .Add p{
+    font-size: 12px;
+  }
+  .Add h1{
+    font-size: 56px;
+    margin-bottom: 0px !important;
+  }
+  .Add h4{
+    font-size: 32px;
+  }
+  .body-1{
+    padding: 0px 0px;
+  }
+  .body-1 h3{
+    font-size: 22px;
+    margin-bottom: 0px !important;
+  }
+  .body-1 h1{
+    font-size: 26px;
+    margin-bottom: 0px !important;
+
+  }
+  .body-2{
+    padding: 60px 0px
+  }
+ .heading button{
+  width: 28%;
+ }
+.body2-burger2 img{
+      margin-top: 19px;
+}
+.body2-burger2 {
+      margin-top: 0px;
+}
+.body-2 button{
+  width: 75%;
+}
+.desc h4{
+  font-size: 14px;
+}
+.desc h2{
+  font-size: 28px;
+}
+.desc p{
+  font-size: 17.83px;
+    margin-top: 4px;
+    width: 60%;
+}
+.owl-theme .owl-dots .owl-dot{
+  margin: 17px 5px;
+}
+.body-3 .col-md-6{
+  display: flex;
+  align-items: center;
+}
+.body-3{
+  margin-top: 0px;
+  padding: 70px 0px
+}
+.body-4{
+  height: 68vh;
+  padding-top: 25px;
+}
+.table form input {
+  width: 30%;
+}
+
+.footer-img-desc {
+  margin-top: 0px;
+}
+.footer-img-desc p{
+  margin-top: 8px;
+  font-size: 9px;
+}
+.footer-img-desc h5{
+  margin-top: 45px;
+}
+.footer-icon-desc{
+  margin-left: 136px;
+  margin-top: 54px;
+}
+.footer-icon-desc span{
+  font-size: 10px;
+}
+.footer-img-desc h5 {
+    margin-top: 30px;
+}
+.footer-icon {
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 0px;
+
+}
+.footer-icon-desc {
+    margin-left: 57px;
+    margin-top: 36px;
+}
+.footer{
+  height: 33vh;
+}
+
+ }
+@media (min-width: 1360px) and (max-width: 1370px) and (orientation: landscape){
+
+
+.coverpage{
+    height: 100vh;
+  }
+  .coverpage .nav-bar .logo img{
+        width: 70%;
+  }
+  .coverpage .nav-bar .menu .menu-top img{
+        width: 6%;
+  }
+   .coverpage .nav-bar .menu .menu-top span{
+        font-size: 8px;
+  }
+  .menu-bottom ul li a{
+    font-size: 12px;
+  }
+  .coverpage .nav-bar .menu .menu-top{
+    padding-bottom: 2px;
+  }
+  .Add{
+    height: 63vh;
+  }
+  .Add p{
+    font-size: 18px;
+  }
+  .Add h1{
+    font-size: 76px;
+    margin-bottom: 0px !important;
+  }
+  .Add h4{
+    font-size: 45px;
+  }
+  .body-1{
+    padding: 0px 0px;
+  }
+  .body-1 h3{
+    font-size: 22px;
+    margin-bottom: 0px !important;
+  }
+  .body-1 h1{
+    font-size: 26px;
+    margin-bottom: 0px !important;
+
+  }
+  .body-2{
+    padding: 60px 0px
+  }
+ .heading button{
+  width: 28%;
+ }
+.body2-burger2 img{
+      margin-top: 7px;
+}
+.body2-burger2 {
+      margin-top: 0px;
+}
+.body-2 button{
+  width: 75%;
+}
+.desc h4{
+  font-size: 14px;
+}
+.desc h2{
+  font-size: 28px;
+}
+.desc p{
+  font-size: 17.83px;
+    margin-top: 4px;
+    width: 60%;
+}
+.owl-theme .owl-dots .owl-dot{
+  margin: 17px 5px;
+}
+.owl-theme .owl-dots{
+  top: 330px;
+}
+.body-3 .col-md-6{
+  display: flex;
+  align-items: center;
+}
+.body-3{
+  margin-top: 0px;
+  padding: 70px 0px
+}
+.body-4{
+  height: 70vh;
+  padding-top: 25px;
+}
+.table form input {
+  width: 30%;
+}
+
+.footer-img-desc {
+  margin-top: 0px;
+}
+.footer-img-desc p{
+  margin-top: 8px;
+  font-size: 9px;
+}
+.footer-img-desc h5 {
+  margin-top: 10px;
+}
+.footer-icon-desc {
+  margin-left: 136px;
+  margin-top: 0px;
+}
+.footer-icon-desc span{
+  font-size: 10px;
+}
+
+.footer-icon {
+    width: 100%;
+    margin-top: 45px;
+    margin-left: 0px;
+
+}
+
+.footer{
+  height: 33vh;
+}
+}
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+  .coverpage{
+    height: 45vh;
+  }
+  .logo{
+    width: 60%;
+  }
+  .nav-bar{
+    padding-top: 0px;
+  }
+  .coverpage .nav-bar .logo img{
+        width: 60%;
+        margin-top: 20px;
+  }
+  .coverpage .nav-bar .menu .menu-top img{
+        width: 6%;
+  }
+   .coverpage .nav-bar .menu .menu-top{
+    margin: 2px 0px;
+   }
+   .coverpage .nav-bar .menu .menu-top span{
+        font-size: 6px;
+  }
+  .menu-bottom ul li a{
+    font-size: 6px;
+    letter-spacing: normal;
+  }
+  .menu-bottom ul li{
+    margin-left: 0px;
+  }
+  .menu-bottom ul{
+    padding-left: 0px;
+  }
+  .coverpage .nav-bar .menu .menu-top{
+    padding-bottom: 2px;
+  }
+  .Add{
+    height: 24vh;
+  }
+  .Add p{
+    font-size: 5px;
+  }
+  .Add h1{
+    font-size: 21px;
+    margin-bottom: 0px !important;
+  }
+  .Add h4{
+    font-size: 14px;
+  }
+  .body-1{
+    padding: 0px 0px;
+  }
+  .body-1 .pic-1{
+    margin-right: 14px;
+  }
+  .body-1 .pic-1 img{
+    margin-top: 10px;
+  }
+  .body-1 .img-desc h3{
+    font-size: 12px;
+  }
+  .body-1 h1{
+    font-size: 16px;
+  }
+  .body-1 .pic-2 h1{
+  font-size:8px; 
+  }
+  .body-1 .pic-2 h3{
+    font-size: 6px;
+  }
+  .body-1 .pic-3 h1{
+  font-size:8px; 
+  }
+  .body-1 .pic-3 h3{
+    font-size: 6px;
+  }
+  .img-desc3{
+    top: 46px;
+  }
+  .img-desc2{
+    top: 13px;
+  }
+  .body-2{
+    padding: 60px 0px;
+    height:180vh;
+  }
+.heading button {
+    width: 60%;
+}
+.body2-burger2 img{
+      margin-top: 30px;
+}
+.body-2 button{
+  width: 75%;
+}
+.desc h4{
+  font-size: 14px;
+}
+.desc h2{
+  font-size: 28px;
+}
+.desc p{
+  font-size: 17.83px;
+    margin-top: 4px;
+    width: 60%;
+}
+.owl-theme .owl-dots .owl-dot{
+  margin: 17px 5px;
+}
+.body-3 .col-md-6{
+  display: flex;
+  align-items: center;
+}
+.body-3{
+  margin-top: 0px;
+  padding: 70px 0px
+}
+.body-4{
+  height: 63vh;
+  padding-top: 0px;
+}
+.table form input{
+  width: 43%;
+}
+
+.footer-img-desc {
+  margin-top: 0px;
+}
+.footer-img-desc p{
+  margin-top: 8px;
+  font-size: 9px;
+}
+.footer-img-desc h5{
+  margin-top: 45px;
+}
+.footer-icon-desc{
+  margin-left: 64px;
+  margin-top: 0px;
+}
+.footer-icon-desc span{
+  font-size: 10px;
+}
+.footer-img-desc h5 {
+    margin-top: 30px;
+}
+.footer-icon {
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 0px;
+
+}
+.footer{
+  height: 60vh;
+}
+.owl-theme .owl-dots{
+  top: -13px;
+}
+.footer-img-desc {
+    margin-top: 0px;
+    text-align: center;
+}
+.footer-img-desc p{
+    margin-left: 68px;
+}
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 815px) and (orientation: landscape){
+  
+  /* CSS */
+    .coverpage{
+    height: 115vh;
+  }
+  .logo{
+    width: 60%;
+  }
+  .nav-bar{
+    padding-top: 0px;
+  }
+  .coverpage .nav-bar .logo img{
+        width: 40%;
+        margin-top: 20px;
+  }
+  .coverpage .nav-bar .menu .menu-top img{
+        width: 6%;
+  }
+   .coverpage .nav-bar .menu .menu-top{
+    margin: 2px 0px;
+   }
+   .coverpage .nav-bar .menu .menu-top span{
+        font-size: 8px;
+  }
+  .menu-bottom ul li a{
+    font-size: 8px;
+    letter-spacing: normal;
+  }
+  .menu-bottom ul li{
+    margin-left: 0px;
+  }
+  .menu-bottom ul{
+    padding-left: 0px;
+  }
+  .coverpage .nav-bar .menu .menu-top{
+    padding-bottom: 2px;
+  }
+  .Add{
+    height: 58vh;
+  }
+  .Add p{
+    font-size: 8px;
+  }
+  .Add h1{
+    font-size: 32px;
+    margin-bottom: 0px !important;
+  }
+  .Add h4{
+    font-size: 20px;
+  }
+  .body-1{
+    padding: 0px 0px;
+  }
+  .body-1 .pic-1{
+    margin-right: 14px;
+  }
+  .body-1 .pic-1 img{
+    margin-top: 10px;
+  }
+  .body-1 .img-desc h3{
+    font-size: 12px;
+  }
+  .body-1 h1{
+    font-size: 16px;
+  }
+  .body-1 .pic-2 h1{
+  font-size:8px; 
+  }
+  .body-1 .pic-2 h3{
+    font-size: 6px;
+  }
+  .body-1 .pic-3 h1{
+  font-size:8px; 
+  }
+  .body-1 .pic-3 h3{
+    font-size: 6px;
+  }
+  .img-desc3{
+    top: 46px;
+  }
+  .img-desc2{
+    top: 13px;
+  }
+  .body-2{
+    padding: 60px 0px;
+    height:136vh;
+  }
+.heading button {
+    width: 60%;
+}
+.body2-burger2 img{
+      margin-top: 45px;
+}
+.body-2 button{
+  width: 75%;
+}
+.desc h4{
+  font-size: 14px;
+}
+.desc h2{
+  font-size: 28px;
+}
+.desc p{
+  font-size: 17.83px;
+    margin-top: 4px;
+    width: 60%;
+}
+.owl-theme .owl-dots .owl-dot{
+  margin: 17px 5px;
+}
+.body-3 .col-md-6{
+  display: flex;
+  align-items: center;
+}
+.body-3{
+  margin-top: 0px;
+  padding: 70px 0px
+}
+.body-4{
+  height: 104vh;
+  padding-top: 0px;
+}
+.table form input{
+  width: 28%;
+}
+
+.footer-img-desc {
+  margin-top: 0px;
+}
+.footer-img-desc p{
+  margin-top: 8px;
+  font-size: 9px;
+}
+.footer-img-desc h5{
+  margin-top: 45px;
+}
+.footer-icon-desc{
+  margin-left: 64px;
+  margin-top: 0px;
+}
+.footer-icon-desc span{
+  font-size: 10px;
+}
+.footer-img-desc h5 {
+    margin-top: 30px;
+}
+.footer-icon {
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 0px;
+
+}
+.footer{
+  height: 90vh;
+}
+.owl-theme .owl-dots{
+  top: -13px;
+}
+.footer-img-desc {
+    margin-top: 0px;
+    text-align: center;
+}
+.footer-img-desc p{
+    margin-left: 68px;
+}
+
+}
